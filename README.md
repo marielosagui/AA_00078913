@@ -1,2 +1,2 @@
-CICLO 02-20
+CICLO 02-20 :shipit:
 - [x] Analisis de Algoritmos
